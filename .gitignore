@@ -1,0 +1,9 @@
+data
+pdf
+script
+test
+zip
+*.DS_Store
+*.txt
+*.pyc
+
