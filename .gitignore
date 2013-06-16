@@ -6,4 +6,4 @@ zip
 *.DS_Store
 *.txt
 *.pyc
-
+*.model
