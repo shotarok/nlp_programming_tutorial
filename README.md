@@ -1,4 +1,4 @@
-nlp_programming_tutorial
+Scripts of NLP Programming Tutorial
 ========================
 
-My script for exercises of the [NLP Programming Tutorial](http://www.phontron.com/teaching.php?lang=en) by Mr Graham Neubig.
+My scripts of [NLP Programming Tutorial](http://www.phontron.com/teaching.php?lang=en) made by Dr. Graham Neubig.
